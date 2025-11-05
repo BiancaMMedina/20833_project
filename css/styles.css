@@ -11,3 +11,27 @@ h2{
 p{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+header, footer{
+    border-style:solid;
+    border-color:blueviolet
+
+}
+
+nav{
+    border-style:solid;
+    border-color:violet
+
+}
+
+main{
+    border-style:solid;
+    border-color:green
+
+}
+
+section{
+    border-style:solid;
+    border-color:red
+
+}
